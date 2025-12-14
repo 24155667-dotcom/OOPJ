@@ -24,4 +24,4 @@ public class q1lab2 {
     }
 }
 
-}
+
