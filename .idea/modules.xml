@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOPJ.iml" filepath="$PROJECT_DIR$/OOPJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/lab6.iml" filepath="$PROJECT_DIR$/lab7/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/lab7.iml" filepath="$PROJECT_DIR$/lab8/lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9/lab9.iml" filepath="$PROJECT_DIR$/lab9/lab9.iml" />
     </modules>
   </component>
 </project>
